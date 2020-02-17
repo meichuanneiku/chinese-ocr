@@ -1,4 +1,4 @@
-# chinese-ocr
+# chinese-ocr（针对手写中文的识别）
 
 
 ## About
